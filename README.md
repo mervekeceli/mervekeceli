@@ -6,4 +6,4 @@
 
 ### Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/mervekeceli-blue?style=flate&logo=linkedin)](https://www.linkedin.com/in/merveekeceli/)
+[![Linkedin Badge](https://img.shields.io/badge/mervekeceli-blue?style=flate&logo=linkedin)](https://www.linkedin.com/in/merve-keceli/)
