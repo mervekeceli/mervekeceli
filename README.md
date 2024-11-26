@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently an Software Engineer at Architecht.
 
-- 🌱 I’m currently learning .Net Core
+- 🌱 I’m currently learning ASP.Net Core
 
 - 📫 How to reach me **mervekeceli55e5@gmail.com**
  
